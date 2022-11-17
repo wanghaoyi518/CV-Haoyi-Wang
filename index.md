@@ -27,4 +27,8 @@
   - In charge of software development of the team.
   - Still work remotely now due to the exchange to UCSD.
 
-## Hobbies  [(see here)](/hobbies.md)
+## Hobbies
+- Hiking
+- Cycling
+- Reading, big Sci-fi fan
+- Listening to the music, mainly classical music and rock music
